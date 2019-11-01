@@ -29,7 +29,8 @@
     header {
         position: relative;
     }
-
+    
+/*
     header:before {
         display: block;
         width: 500px;
@@ -43,6 +44,7 @@
         content: " ";
         margin-bottom: 15px;
     }
+*/
 
     /*헤더*/
 
