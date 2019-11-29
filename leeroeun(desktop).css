@@ -29,7 +29,7 @@
     header {
         position: relative;
     }
-    
+     
 /*
     header:before {
         display: block;
@@ -338,7 +338,7 @@
 
     #board-info h1{
         padding-top: 16px;
-        padding-bottom: 4px;
+        padding-bottom: 2px;
         margin-left: 3.5em;
         border-bottom: 1.1px solid #a4ebdf;
     }
@@ -562,8 +562,13 @@ span.a-badge i.fa.fa-star {
     }
 
     #board-info #board-info-bottom a{
-    color:#72d7c7;
+    color:#72d7c7;  
     }
+
+    #board-info #board-info-bottom {
+        padding-top: 4px;
+    }
+
 
     .header span {
         color: #72d7c7;
